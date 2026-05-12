@@ -96,4 +96,3 @@ Ngrok token is only used in Google Colab through Colab Secrets.
 ## Disclaimer
 
 AquaSense AI hanya digunakan sebagai bantuan awal dan edukatif. Keputusan akhir tetap perlu divalidasi dengan pengukuran langsung, pengalaman lapangan, dan konsultasi dengan ahli budidaya.
-```
